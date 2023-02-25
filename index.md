@@ -1,5 +1,5 @@
-# Markdown<h1>
-# What is Markdown?<h2>
+# Markdown
+#### What is Markdown?
 Markdown is a light weight syntax for communication github
 #Looking forward to learning more on markdown<h6>
 ![Image of Yogito](https://octodex.github.com/images/yogitocat.png)
