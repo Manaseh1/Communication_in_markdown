@@ -2,3 +2,4 @@
 # What is Markdown?<h2>
 Markdown is a light weight syntax for communication github
 #Looking forward to learning more on markdown<h6>
+![Image of Yak](https://octodex.github.com/images/yaktocat.png)
