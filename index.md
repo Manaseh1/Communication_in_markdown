@@ -1,7 +1,7 @@
 # Markdown
 #### What is Markdown?
 Markdown is a light weight syntax for communication github
-#Looking forward to learning more on markdown<h6>
+#Looking forward to learning more on markdown
 ![Image of Yogito](https://octodex.github.com/images/yogitocat.png)
 ``` Hello I m Yogito ``` 
 #A tasklist creates a checkbox to check off
